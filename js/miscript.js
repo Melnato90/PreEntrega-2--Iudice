@@ -93,8 +93,9 @@ do {
   }
 } while (!escMenu);
 
-//Objetos//
+//Por consola//
 
+//Objetos//
 class Vehiculos {
   constructor(modelo, marca, color, capacidad) {
     this.modelo = modelo;
